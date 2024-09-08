@@ -8,7 +8,7 @@ public class Main {
 //        FizzBuzz.doFizzBuzz(4);
 //        FizzBuzz.doFizzBuzz(5);
 
-        FizzBuzz.main(args);
+       // FizzBuzz.main(args);
 
 
     }
